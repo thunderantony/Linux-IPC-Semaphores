@@ -1,6 +1,8 @@
 # Linux-IPC-Semaphores
-Ex05-Linux IPC-Semaphores
-
+~~~
+Developed by : ANTHONY RAJ
+Register Number : 212223230017
+~~~
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
@@ -19,9 +21,6 @@ Write the C Program using Linux Process API - Sempahores
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-
-Developed by : VARSHA A
-Register Number : 212223220121
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 ~~~
